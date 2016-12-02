@@ -139,3 +139,5 @@ for j in `cat /opt/scripts/gex2.txt` ;do check_symbol_log gw-gex2 $j ; done
 for m in `cat /opt/scripts/ratemng.txt ` ;do check_symbol_log ratemng $m ; done
 for n in `cat /opt/scripts/cpratecache_caso.txt` ;do check_symbol_log cpratecache_caso $n ; done
 for t in `cat /opt/scripts/DataSource.txt` ;do check_symbol_log DataSource $t ; done
+
+echo -e "Has finnished...."
