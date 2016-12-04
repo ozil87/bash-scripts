@@ -6,3 +6,4 @@ COPY check_symbol_rate.sh /opt/scripts/
 
 
 
+COPY check_symbol_rate.sh /opt/scripts2/
